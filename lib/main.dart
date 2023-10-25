@@ -4,7 +4,7 @@ import 'package:flutter_first_app/gradient_container.dart';
 
 void main() {
   runApp(
-    MaterialApp(
+    const MaterialApp(
       home: Scaffold(
         body: GradientContainer(
           Colors.deepPurple,
